@@ -1,0 +1,6 @@
+[0m[[0minfo[0m] [0m[32mBinaryTreeSuite:[0m[0m
+[0m[[0minfo[0m] [0m[32m- proper inserts and lookups[0m[0m
+[0m[[0minfo[0m] [0m[32m- instruction example[0m[0m
+[0m[[0minfo[0m] [0m[32m- insert after being removed[0m[0m
+[0m[[0minfo[0m] [0m[31m- behave identically to built-in set (includes GC) *** FAILED ***[0m[0m
+[0m[[0minfo[0m] [0m[31m  failure to receive confirmation 20/1000 (BinaryTreeSuite.scala:28)[0m[0m
